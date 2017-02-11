@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(function() {
 	$("h1").click(function() {
   	alert("This is a header.");
 	});
